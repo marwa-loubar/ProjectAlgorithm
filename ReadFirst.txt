@@ -1,0 +1,3 @@
+project1.c : the main part (user input part).
+libraryM.c : the functions/procedures codes.
+libraryMheader.h : the header part of the library.

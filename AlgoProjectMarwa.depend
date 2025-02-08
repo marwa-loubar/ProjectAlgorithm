@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1739029444 source:c:\users\pc\documents\toz\projectalgo\librarym.c
+	"libraryMheader.h"
+
+1738525891 c:\users\pc\documents\toz\projectalgo\librarymheader.h
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+
+1739050131 source:c:\users\pc\documents\toz\projectalgo\project 1.c
+	"libraryMheader.h"
+
